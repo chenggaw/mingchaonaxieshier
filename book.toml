@@ -1,0 +1,6 @@
+[book]
+authors = ["liuzihao"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "明朝那些事儿"
